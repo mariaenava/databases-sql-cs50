@@ -1,4 +1,4 @@
-# CS50's Introduction to Databases with SQL
+# [CS50's Introduction to Databases with SQL](https://pll.harvard.edu/course/cs50s-introduction-databases-sql)
 
 ## Problem Set 0 - Querying
 - [Cyberchase](pset0/cyberchase)
